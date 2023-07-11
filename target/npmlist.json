@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"deskbooking","dependencies":{"core-js":{"version":"3.25.5"},"date-fns":{"version":"2.29.3"},"moment":{"version":"2.29.4"},"phosphor-vue":{"version":"1.4.2"},"vue-router":{"version":"2.7.0"},"vue":{"version":"2.7.10"},"vuelidate":{"version":"0.7.7"},"vuetify":{"version":"2.6.11"}}}
