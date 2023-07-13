@@ -3,7 +3,7 @@
     <nav>
       <v-navigation-drawer app>
         <div id="navigation">
-          <v-img id="logo" src="../src/assets/SCPLogoBlueGrey.png"></v-img>
+          <v-img id="logo" src="../src/assets/motionUp3.png"></v-img>
           <v-list id="list">
             <v-list-item
               v-for="(item, index) in items"
@@ -104,7 +104,7 @@ export default {
 }
 
 #logo {
-  width: 80%;
+  width: 50%;
   margin-top: 2rem;
   margin-left: 0.7rem;
   overflow: hidden;
